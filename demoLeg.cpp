@@ -1,6 +1,6 @@
 /*	Autorzy:
-		Lukasz Mejlun
-		Wojciech Nowakowski
+		-Lukasz Mejlun
+		-Wojciech Nowakowski
 */
 
 #include "include/defs/defs.h"
